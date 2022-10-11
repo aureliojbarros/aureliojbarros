@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aureliojbarros
+- 👋 Hi, I’m Aurelio Jara Barros (@aureliojbarros)
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning css, html and javascript
 - 💞️ I’m looking to collaborate on css and html development
